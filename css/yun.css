@@ -1,0 +1,172 @@
+.navbar-default {
+   
+    background: #154889;
+    
+}
+.navbar-header a img {
+    margin-top: -25px;
+}
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    padding: 14px;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #777;
+    color: #fff;
+}
+.le{
+	border: 1px solid #1B6D85;
+	padding: 0px 14px;
+	border-radius: 25px;
+	color:#18aafa;
+}
+.rt{
+	border: 1px solid #1B6D85;
+	padding: 0px 14px;
+	border-radius: 25px;
+	margin-left: 10px;
+	background: #18aafa;
+	color: #fff;
+}
+.tu{
+	background: #edeff0;
+}
+.tu img{
+	width: 100%;
+	margin-top: -20px;
+}
+@media(max-width:768px ) {
+	.navbar-default {
+   
+    background: #fff;
+    
+}
+
+	
+}
+.navbar-header, .vt{
+	margin-top: 15px;
+}
+#list{
+	padding: 50px;
+}
+#list p{
+	line-height: 25px;
+}
+#list b{
+	text-align: right;
+	display: block;
+	padding-top: 20px;
+	color: #18AAFA;
+}
+.ty img{
+	margin: 0 auto;
+	padding-bottom: 70px;
+	
+}
+.bg{
+	background: url(../img/cloud-functions.png);
+	background-size: 100%;
+	
+}
+.bg h3{
+	color: #fff;
+	padding-top: 30px;
+}
+#la p{
+	color: #fff;
+	padding-top:30px;
+}
+#la span{
+	color: #9a9fa4;
+	
+}
+#la h2{
+	border-bottom: 1px dashed #fff;
+	padding: 30px;
+	
+}
+#las p{
+	color: #fff;
+	padding-top:30px;
+	
+}
+#las span{
+	color: #9a9fa4;
+}
+#ten img{
+	margin: 0 auto;
+	padding: 40px;
+	
+}
+#ten{
+	text-align: center;
+}
+.uu{
+	text-align: center;
+	padding-top: 40px;
+}
+.bot{
+	background: #f9f9f9;
+	margin-top: 70px;
+}
+.bot, .ss{
+	text-align: center;
+	padding: 35px;
+}
+.bot img{
+	width: 100%;
+}
+#mei{
+	margin: 25px;
+}
+#az img{
+	padding: 25px;
+}
+.bots{
+	background: #f5f5f5;
+}
+#vx{
+	padding: 70px;
+}
+#vx img{
+	margin: 0 auto;
+}
+#vx h4{
+	text-align: center;
+	padding: 14px;
+}
+#vx p{
+	text-align: center;
+}
+.footer{
+	background: #0e2335;
+}
+.footer ul{
+	width: 18%;
+	
+	float: left;
+	padding: 40px;
+}
+.footer ul li{
+	list-style: none;
+	
+}
+.tf{
+	width: 20%;
+}
+.ol{
+	color: #fff;
+	margin-bottom: 15px;
+}
+.gg{
+	text-align: center;
+	padding: 15px;
+}
+.bi img{
+	margin: 0 auto;
+}
+
